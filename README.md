@@ -1,4 +1,3 @@
 # GUI-Calculator
-Project 1
-hi
-hello guys
+THis is my first project and i am going to create: <br>
+a calculator usiing python
