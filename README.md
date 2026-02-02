@@ -1,3 +1,4 @@
 # GUI-Calculator
-THis is my first project and i am going to create: <br>
-a calculator usiing python
+## Project Overview
+
+The Simple GUI Calculator is a basic desktop application built using Python to perform standard arithmetic operations. It provides a clean graphical interface that allows users to carry out calculations easily without using the command line.
