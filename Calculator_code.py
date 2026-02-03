@@ -13,3 +13,6 @@ class Calculator:
 if __name__ == "__main__":
     calc = Calculator()  # Instantiate class
     calc.run()           # Call the run method
+
+# creating new frames for display and the buttons
+
